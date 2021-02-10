@@ -1,0 +1,13 @@
+D:\Repositorio_git_vss\Projetos\Calculadora\Calculadora\bin\Debug\netcoreapp3.1\Calculadora.exe
+D:\Repositorio_git_vss\Projetos\Calculadora\Calculadora\bin\Debug\netcoreapp3.1\Calculadora.deps.json
+D:\Repositorio_git_vss\Projetos\Calculadora\Calculadora\bin\Debug\netcoreapp3.1\Calculadora.runtimeconfig.json
+D:\Repositorio_git_vss\Projetos\Calculadora\Calculadora\bin\Debug\netcoreapp3.1\Calculadora.runtimeconfig.dev.json
+D:\Repositorio_git_vss\Projetos\Calculadora\Calculadora\bin\Debug\netcoreapp3.1\Calculadora.dll
+D:\Repositorio_git_vss\Projetos\Calculadora\Calculadora\bin\Debug\netcoreapp3.1\Calculadora.pdb
+D:\Repositorio_git_vss\Projetos\Calculadora\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.csprojAssemblyReference.cache
+D:\Repositorio_git_vss\Projetos\Calculadora\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.AssemblyInfoInputs.cache
+D:\Repositorio_git_vss\Projetos\Calculadora\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.AssemblyInfo.cs
+D:\Repositorio_git_vss\Projetos\Calculadora\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.csproj.CoreCompileInputs.cache
+D:\Repositorio_git_vss\Projetos\Calculadora\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.dll
+D:\Repositorio_git_vss\Projetos\Calculadora\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.pdb
+D:\Repositorio_git_vss\Projetos\Calculadora\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.genruntimeconfig.cache
