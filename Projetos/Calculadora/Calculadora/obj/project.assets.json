@@ -8,19 +8,24 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\crist\\.nuget\\packages\\": {}
+    "C:\\Users\\crist\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Repositorio_git_vss\\Projetos\\Calculadora\\Calculadora\\Calculadora.csproj",
+      "projectUniqueName": "D:\\git\\Projetos\\Calculadora\\Calculadora\\Calculadora.csproj",
       "projectName": "Calculadora",
-      "projectPath": "D:\\Repositorio_git_vss\\Projetos\\Calculadora\\Calculadora\\Calculadora.csproj",
+      "projectPath": "D:\\git\\Projetos\\Calculadora\\Calculadora\\Calculadora.csproj",
       "packagesPath": "C:\\Users\\crist\\.nuget\\packages\\",
-      "outputPath": "D:\\Repositorio_git_vss\\Projetos\\Calculadora\\Calculadora\\obj\\",
+      "outputPath": "D:\\git\\Projetos\\Calculadora\\Calculadora\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
         "C:\\Users\\crist\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -60,7 +65,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   }
