@@ -1,0 +1,16 @@
+C:\Users\crist\Desktop\CadastroDeSeries\Dio.Series\bin\Debug\net5.0\CadastroDeSeries.exe
+C:\Users\crist\Desktop\CadastroDeSeries\Dio.Series\bin\Debug\net5.0\CadastroDeSeries.deps.json
+C:\Users\crist\Desktop\CadastroDeSeries\Dio.Series\bin\Debug\net5.0\CadastroDeSeries.runtimeconfig.json
+C:\Users\crist\Desktop\CadastroDeSeries\Dio.Series\bin\Debug\net5.0\CadastroDeSeries.runtimeconfig.dev.json
+C:\Users\crist\Desktop\CadastroDeSeries\Dio.Series\bin\Debug\net5.0\CadastroDeSeries.dll
+C:\Users\crist\Desktop\CadastroDeSeries\Dio.Series\bin\Debug\net5.0\ref\CadastroDeSeries.dll
+C:\Users\crist\Desktop\CadastroDeSeries\Dio.Series\bin\Debug\net5.0\CadastroDeSeries.pdb
+C:\Users\crist\Desktop\CadastroDeSeries\Dio.Series\obj\Debug\net5.0\CadastroDeSeries.csproj.AssemblyReference.cache
+C:\Users\crist\Desktop\CadastroDeSeries\Dio.Series\obj\Debug\net5.0\CadastroDeSeries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\crist\Desktop\CadastroDeSeries\Dio.Series\obj\Debug\net5.0\CadastroDeSeries.AssemblyInfoInputs.cache
+C:\Users\crist\Desktop\CadastroDeSeries\Dio.Series\obj\Debug\net5.0\CadastroDeSeries.AssemblyInfo.cs
+C:\Users\crist\Desktop\CadastroDeSeries\Dio.Series\obj\Debug\net5.0\CadastroDeSeries.csproj.CoreCompileInputs.cache
+C:\Users\crist\Desktop\CadastroDeSeries\Dio.Series\obj\Debug\net5.0\CadastroDeSeries.dll
+C:\Users\crist\Desktop\CadastroDeSeries\Dio.Series\obj\Debug\net5.0\ref\CadastroDeSeries.dll
+C:\Users\crist\Desktop\CadastroDeSeries\Dio.Series\obj\Debug\net5.0\CadastroDeSeries.pdb
+C:\Users\crist\Desktop\CadastroDeSeries\Dio.Series\obj\Debug\net5.0\CadastroDeSeries.genruntimeconfig.cache
